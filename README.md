@@ -1,19 +1,31 @@
 # Hi, I'm Pratik Khairnar 👋
 
-## Cyber Security Researcher | VAPT | Web Application Security | Digital Forensics
+## Cyber Security Researcher | VAPT | Web Application Security | Security Tool Development
 
 Cyber Security Researcher focused on Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT), Digital Forensics, and Security Tool Development.
 
-Building practical security tools, improving application security skills, and exploring responsible vulnerability research, Bug Bounty Research, and Application Security.
+I build practical security tools, research vulnerabilities, and continuously improve my skills through hands-on security testing, automation, and responsible vulnerability research.
 
 ---
+
+## Present Status
+
+👉 Building open-source security tools for penetration testing and security research.
+
+👉 Improving knowledge in web application vulnerabilities and application security.
+
+👉 Exploring Bug Bounty Research and responsible vulnerability disclosure.
+
+👉 Developing Python-based security automation tools.
+
+👉 Continuously learning offensive security methodologies.
 
 ## 🚀 Security Research Journey
 
 Currently focused on:
 - Web Application Security
 - Vulnerability Research
-- Bug Bounty Methodologies
+- Bug Bounty Research
 - Security Automation
 - Open Source Security Tools
 
