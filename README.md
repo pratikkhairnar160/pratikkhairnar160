@@ -10,7 +10,7 @@ Building practical security tools, improving application security skills, and ex
 
 ## 🔐 Security Skills
 
-### Web Application Security
+### Web Security
 - Web Application Penetration Testing
 - OWASP Top 10
 - Vulnerability Assessment & Penetration Testing (VAPT)
@@ -18,7 +18,7 @@ Building practical security tools, improving application security skills, and ex
 - Cross-Site Scripting (XSS)
 - API Security
 
-### Digital Forensics & Investigation
+### Digital Forensics
 - Cybercrime Investigation
 - Digital Evidence Analysis
 - OSINT Investigation
