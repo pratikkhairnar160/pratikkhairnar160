@@ -8,6 +8,17 @@ Building practical security tools, improving application security skills, and ex
 
 ---
 
+## 🚀 Security Research Journey
+
+Currently focused on:
+- Web Application Security
+- Vulnerability Research
+- Bug Bounty Methodologies
+- Security Automation
+- Open Source Security Tools
+
+Building practical tools and improving offensive security skills through continuous research and hands-on testing.
+
 # 🔐 Security Skills
 
 ## Web Application Security
@@ -101,19 +112,6 @@ Focus areas:
 - JavaScript
 - Bash
 - HTML/CSS
-
-
----
-
-# 🎯 Current Focus
-
-- Web Application Security Research
-- Bug Bounty Research
-- Security Automation
-- Vulnerability Research
-- Application Security
-- Security Tool Development
-
 
 ---
 
