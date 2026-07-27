@@ -112,8 +112,8 @@ Focus areas:
 
 # 📜 Certifications
 
-- Certified Ethical Hacker (CEH v13)
-- Cisco Certified Network Associate (CCNA)
+- 🏅 Certified Ethical Hacker (CEH v13)
+- 🏅 Cisco Certified Network Associate (CCNA)
 
 
 ---
