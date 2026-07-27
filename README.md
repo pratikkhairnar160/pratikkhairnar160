@@ -2,23 +2,23 @@
 
 ## Cyber Security Researcher | VAPT | Web Application Security | Digital Forensics
 
-I am a Cyber Security enthusiast focused on Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT), Digital Forensics, and Security Tool Development.
+Cyber Security Researcher focused on Web Application Security, Vulnerability Assessment & Penetration Testing (VAPT), Digital Forensics, and Security Tool Development.
 
-Currently building practical security tools, improving application security skills, and exploring responsible vulnerability research.
+Building practical security tools, improving application security skills, and exploring responsible vulnerability research and Bug Bounty Research.
 
 ---
 
 ## 🔐 Security Skills
 
-### Web Security
+### Web Application Security
 - Web Application Penetration Testing
 - OWASP Top 10
 - Vulnerability Assessment & Penetration Testing (VAPT)
-- SQL Injection
+- SQL Injection (SQLi)
 - Cross-Site Scripting (XSS)
 - API Security
 
-### Digital Forensics
+### Digital Forensics & Investigation
 - Cybercrime Investigation
 - Digital Evidence Analysis
 - OSINT Investigation
@@ -55,11 +55,11 @@ https://github.com/pratikkhairnar160/Vaelion-XSS
 
 ### 🔥 Blind-SQLi
 
-Time-Based Blind SQL Injection detection framework.
+Time-Based Blind SQL Injection detection framework built for authorized security testing.
 
 Features:
 - Database-specific payload support
-- Response-time analysis
+- Response-time based detection
 - Multi-threaded scanning
 - Automated reporting
 
@@ -71,14 +71,12 @@ https://github.com/pratikkhairnar160/Blind-SQLi
 
 Android malware analysis tool for static and dynamic security analysis.
 
-
 ---
 
 ## 📜 Certifications
 
 - Certified Ethical Hacker (CEH v13)
 - Cisco Certified Network Associate (CCNA)
-
 
 ---
 
@@ -88,7 +86,6 @@ Android malware analysis tool for static and dynamic security analysis.
 - JavaScript
 - Bash
 - HTML/CSS
-
 
 ---
 
@@ -100,7 +97,6 @@ Android malware analysis tool for static and dynamic security analysis.
 - Vulnerability Research
 - Application Security
 
-
 ---
 
 ## 📫 Connect With Me
@@ -111,7 +107,6 @@ https://linkedin.com/in/pratik-khairnar160
 GitHub:
 https://github.com/pratikkhairnar160
 
-
 ---
 
-⭐ Building security tools and continuously learning cybersecurity.
+⭐ Building security tools and continuously improving cybersecurity skills.
