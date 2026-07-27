@@ -128,6 +128,11 @@ https://github.com/pratikkhairnar160
 Medium:
 https://medium.com/@vaelion000
 
+X (Twitter):
+https://x.com/vaelion000
+
+Email:
+Vaelion000@proton.me
 
 ---
 
